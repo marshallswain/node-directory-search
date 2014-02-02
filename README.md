@@ -7,6 +7,7 @@ Recursively search a directory and return a list of matching files.  Currently s
 
 	var dirSearch = require('directory-search');
 
+	// Search 'public' directory for '.css' files.
 	dirSearch('public', '.css', function(err, results) {
 	  if (err) throw err;
 	  console.log(results);
