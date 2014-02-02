@@ -1,0 +1,24 @@
+{
+  "name": "directory-search",
+  "version": "0.0.2",
+  "description": "Recursively search a directory and return a list of files with matching extension.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marshallswain/node-directory-search.git"
+  },
+  "keywords": [
+    "directory",
+    "fs",
+    "search"
+  ],
+  "author": "Marshall Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marshallswain/node-directory-search/issues"
+  },
+  "homepage": "https://github.com/marshallswain/node-directory-search"
+}
